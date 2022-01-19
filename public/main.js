@@ -24,4 +24,12 @@ app.get('/services', function(req, res) {
     const data = fs.readFileSync('services.html');
     res.end(data);
 })
+app.get('/signin', function(req, res) {
+    const data = fs.readFileSync('signin.html');
+    res.end(data);
+})
+app.get('/signup', function(req, res) {
+    const data = fs.readFileSync('signup.html');
+    res.end(data);
+})
 app.listen(3000);
