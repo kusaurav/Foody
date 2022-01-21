@@ -6,7 +6,7 @@ Front-End of a food website which provides services like food delivery and food 
  <pre> > node -v 
  > npm -v </pre>
 3. Download zip file and extract in a folder.
-4. Now in  navigate to folder in which you have extracted Foody folder and then navigate to public folder
+4. Now in command prompt navigate to folder in which you have extracted Foody folder and then navigate to public folder
 5. install express 
  <pre> > npm install express </pre>
 6. After installing express type command 
