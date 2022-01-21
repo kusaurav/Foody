@@ -1,7 +1,7 @@
 # Foody
 Front-End of a food website which provides services like food delivery and food catering. 
 ## Windows 
-1. [Download Nodejs] (https://nodejs.org/en/download/)
+1. [Download Nodejs](https://nodejs.org/en/download/)
 2. Open command prompt and Check if node and npm installed successfully by following commands.
  <pre> node -v 
  
