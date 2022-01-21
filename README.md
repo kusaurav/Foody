@@ -22,7 +22,7 @@ Front-End of a food website which provides services like food delivery and food 
 3. Download and Install npm
 <pre> sudo apt-get install npm </pre>  
 4. Clone repository or simply download zip file and extract
-<pre> git clone </pre> 
+<pre> git clone https://github.com/kusaurav/Foody.git</pre> 
 5. Navigate to folder in which you have extracted Foody folder and then navigate to public folder.
 6. Install express 
  <pre> sudo apt-get install express </pre> 
