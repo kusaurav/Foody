@@ -8,11 +8,11 @@ Front-End of a food website which provides services like food delivery and food 
 3. Download zip file and extract in a folder.
 4. Now in  navigate to folder in which you have extracted Foody folder and then navigate to public folder
 5. install express 
-6. <pre> > npm install express </pre>
-7. After installing express type command 
+ <pre> > npm install express </pre>
+6. After installing express type command 
 <pre> > nodemon main.js </pre>
-8. Prompt will show **app is listening at port: 3000**
-9. Now go to your browser and search for localhost:3000
+7. Prompt will show **app is listening at port: 3000**
+8. Now go to your browser and search for localhost:3000
  
 ## Ubuntu 
 1. Open Terminal
