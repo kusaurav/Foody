@@ -12,7 +12,7 @@ Front-End of a food website which provides services like food delivery and food 
 6. <pre> npm install express </pre>
 7. After installing express type command 
 <pre> nodemon main.js </pre>
-8. Prompt will show **app is listening at port: 3000
+8. Prompt will show **app is listening at port: 3000**
 9. Now go to your browser and search for localhost:3000
  
 ## Ubuntu 
@@ -28,5 +28,5 @@ Front-End of a food website which provides services like food delivery and food 
  <pre> sudo apt-get install express </pre> 
 7. After installing express type command 
 <pre> nodemon main.js </pre>
-8. Prompt will show **app is listening at port: 3000
+8. Terminal will show **app is listening at port: 3000**
 9. Now go to your browser and search for localhost:3000
