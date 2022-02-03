@@ -4,7 +4,7 @@ Front-End of a food website which provides services like food delivery and food 
 1. [Download Nodejs](https://nodejs.org/en/download/)
 2. Open command prompt and Check if node and npm installed successfully by following commands.
 `` > node -v 
- > npm -v ```
+ > npm -v ``
  
 3. Download zip file and extract in a folder.
 4. Now in command prompt navigate to folder in which you have extracted Foody folder and then navigate to public folder
@@ -18,6 +18,7 @@ Front-End of a food website which provides services like food delivery and food 
 ## Ubuntu 
 1. Open Terminal
 2. Download and Install Nodejs 
+
 ```$ sudo apt-get install nodejs ```
 3. Download and Install npm
 ```$ sudo apt-get install npm ``` 
