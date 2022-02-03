@@ -3,8 +3,9 @@ Front-End of a food website which provides services like food delivery and food 
 ## Windows 
 1. [Download Nodejs](https://nodejs.org/en/download/)
 2. Open command prompt and Check if node and npm installed successfully by following commands.
-``` > node -v 
+`` > node -v 
  > npm -v ```
+ 
 3. Download zip file and extract in a folder.
 4. Now in command prompt navigate to folder in which you have extracted Foody folder and then navigate to public folder
 5. install express 
